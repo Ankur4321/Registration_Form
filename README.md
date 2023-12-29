@@ -1,3 +1,6 @@
+https://github.com/Ankur4321/Registration_Form/assets/113792249/0fa75b9c-0637-4ff9-bf78-e28d592045ec
+
+
 Registration Form
 This project is a simple user registration form implemented using HTML, CSS, JavaScript, MongoDB, Node.js, and Express.js.
 
